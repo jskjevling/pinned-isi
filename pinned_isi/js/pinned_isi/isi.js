@@ -1,6 +1,6 @@
 /*
   Pinned ISI Module
-  Author: Jeremy Skjevling/ J&J Multimedia Services
+  Author: Jeremy Skjevling
   Useage: This module is meant as a plug-and-play solution to all pinned ISI needs.
           It loads the ISI text/markup from a separate file, and generates the pinned
           ISI based on window size using specified breakpoints.
